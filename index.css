@@ -6,7 +6,7 @@ body {
 }
 /*font*/
 @font-face{
-    src: url(/CursedTimerUlil-Aznm.ttf);
+    src: url(CursedTimerUlil-Aznm.ttf);
     font-family: CursedTimerUlil-Aznm;
 }
 /*main container for div*/
